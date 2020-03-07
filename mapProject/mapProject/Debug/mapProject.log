@@ -1,0 +1,5 @@
+﻿  mapProject.cpp
+C:\Users\Carlos\source\repos\mapProject\mapProject\mapProject.cpp(13,21): error C2039: 'print': is not a member of 'Map'
+C:\Users\Carlos\source\repos\mapProject\mapProject\Map.h(8): message : see declaration of 'Map'
+  Map.cpp
+  Generating Code...
